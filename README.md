@@ -1,1 +1,1 @@
-Python control robotics gripper 
+Python control robotic gripper 
